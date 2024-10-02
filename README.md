@@ -29,6 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhannirzhor&show_icons=true&locale=en" alt="farhannirzhor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhannirzhor&" alt="farhannirzhor" /></p>
-![](https://raw.githubusercontent.com/FarhanAlgos/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FarhanAlgos/cf-stats/main/output/light_card.svg)
 
