@@ -1,13 +1,13 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 <h1 align="center">Hi 👋, I'm Farhan Hassin Nirzhor</h1>
-<h3 align="center">A passionate data analyst from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif">
 
-- 🌱 I’m currently learning **Tensorflow 2.0**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farhannirzhor](https://github.com/farhannirzhor)
 
-- 💬 Ask me about **python, power bi, sql**
+- 💬 Ask me about **java, spring boot, python**
 
 - 📫 How to reach me **farhan.hassin212@gmail.com**
 
